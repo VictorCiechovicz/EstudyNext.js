@@ -1,12 +1,6 @@
-import HomeScreen from "../src/screens/HomeScreen";
+import HomeScreen from '../src/screens/HomeScreen'
 
-export default HomeScreen;
-
-
-
-
-
-
+export default HomeScreen
 
 //import Link from '../src/components/Link/index'
 //import Footer from '../src/components/Footer'
