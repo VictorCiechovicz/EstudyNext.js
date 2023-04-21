@@ -20,7 +20,7 @@ Clone this project and start with Expo:
 ```js
   git clone
   npm install
- npm run dev
+  npm run dev
 ```
 https://estudy-next-js.vercel.app/
 
