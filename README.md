@@ -23,7 +23,7 @@ Clone this project and start with Expo:
  npm run dev
 ```
 https://estudy-next-js.vercel.app/
-```
+
 
 ## ****📄 Feedback****
 
