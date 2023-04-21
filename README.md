@@ -1,3 +1,3 @@
-![image](https://user-images.githubusercontent.com/106246945/233609277-6d06ef4b-760c-49b1-8f26-04b7e235ee2e.png)
+![image](https://user-images.githubusercontent.com/106246945/233609418-2c718ecf-3752-4c04-91fe-57bd7f1c13be.png)
 
 # EstudyNext.js
