@@ -3,7 +3,7 @@
 # EstudyNext.js
 # ****💻 Study Next.js ****
 
- App to control of animal for adoption. This application was created for the purpose of studies.
+ This application is landing page uisng Next.ja. This application was created for the purpose of studies.
  
 ## ****✨ Stack****
 
